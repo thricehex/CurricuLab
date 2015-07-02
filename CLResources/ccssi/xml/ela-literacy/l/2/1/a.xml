@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="B1BC80614A7C434fA237CB9F520DE693">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use collective nouns (e.g., &lt;em&gt;group&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3BC8F46071754afc8A9871C559FE7B8A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="3CED0282496D44d7984CC5D48BBF4831">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/K/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.K.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Count, pronounce, blend, and segment syllables in spoken words.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B1680D997FAE43db9F042BB1AA5DD5F7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

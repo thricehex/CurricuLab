@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="AAEA2D689C06416185FB2857BFA79838">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify real-life connections between words and their use (e.g., &lt;em&gt;describe foods that are spicy or juicy&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">923A115FB751438aB4B5D08AE0B5C5CA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

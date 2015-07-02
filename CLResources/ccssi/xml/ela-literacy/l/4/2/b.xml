@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="F4E759CF258C4ccbACE2928A9674C9F3">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use commas and quotation marks to mark direct speech and quotations from a text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5684BAE966C5411e86922858B0FC0093</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

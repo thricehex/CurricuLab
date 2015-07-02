@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="1785FBC411294aa0B4229D632A88F120">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/4/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.4.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use context to confirm or self-correct word recognition and understanding, rereading as necessary.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">69BDF58549254138919FCB67C0E325C7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

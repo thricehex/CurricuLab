@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="22440D609BC04cfd8AAC62C7D8BE22C2">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AE0AF4A21C6041b5BA56A47251FA1EB0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8B33F0AEDE1044e494A2AD2BA5796524">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use relative pronouns (&lt;em&gt;who, whose, whom, which, that&lt;/em&gt;) and relative adverbs (&lt;em&gt;where, when, why&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8134BF13F3A04f6aB51E74F1D1B4F238">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Form and use the progressive (e.g., &lt;em&gt;I was walking; I am walking; I will be walking&lt;/em&gt;) verb tenses.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="71A3D82A2A014586AF4F33FEB47FF87D">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use modal auxiliaries (e.g., &lt;em&gt;can, may, must&lt;/em&gt;) to convey various conditions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C6712F7344DB471986225622F3784EAD">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Order adjectives within sentences according to conventional patterns (e.g., &lt;em&gt;a small red bag&lt;/em&gt; rather than &lt;em&gt;a red small bag&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F54C86E7E2DE4b838A93693CBB28974F">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Form and use prepositional phrases.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FCB71D3251F143f4AB18A897A894CF94">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/f/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1f</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons.*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BD23581D53D44dd6B7B7AC2A54FEAD73">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/g/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1g</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Correctly use frequently confused words (e.g., &lt;em&gt;to, too, two; there, their&lt;/em&gt;).*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

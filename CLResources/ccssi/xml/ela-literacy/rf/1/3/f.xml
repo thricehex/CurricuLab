@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="F71478C364E54dd9A0201672D4A7436A">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/1/3/f/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.1.3f</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read words with inflectional endings.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DFAD6504F1F04fadA9CC5A69A91A072C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="F3A4D50BBECB4999A6EAE3020915092B">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/6/1/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.6.1e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize variations from standard English in their own and others' writing and speaking, and identify and use strategies to improve expression in conventional language.*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BF4D7D5368EC481d8A0F93327A9F021A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

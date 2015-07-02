@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="FD0233E45EDF46028F82480D6B1D56F7">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/2/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.2.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Know spelling-sound correspondences for additional common vowel teams.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1F2778E06A2542c190558F0CD290F52C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

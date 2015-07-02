@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="E16D0A40BE79488e982584230815A698">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/K/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.K.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify new meanings for familiar words and apply them accurately (e.g., knowing &lt;em&gt;duck&lt;/em&gt; is a bird and learning the verb to &lt;em&gt;duck&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D86507ACEF3D4a6d90C15A8B8C8EC18E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

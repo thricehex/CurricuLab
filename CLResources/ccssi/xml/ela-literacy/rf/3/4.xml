@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="D7820F1DBC7C42acBFD6B0BB451914C2">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/3/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.3.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read with sufficient accuracy and fluency to support comprehension.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F43FCFFAA886418aB0257F3C08152FAF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E3BCF5E06C5343de9DAD6915B9F8FA7D">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/3/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.3.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read grade-level text with purpose and understanding.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D7820F1DBC7C42acBFD6B0BB451914C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D5C6CCF16B584416909E1E2023EE9AE1">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/3/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.3.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read grade-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D7820F1DBC7C42acBFD6B0BB451914C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="03C41500097B4bfaB618025839E1D728">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/3/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.3.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use context to confirm or self-correct word recognition and understanding, rereading as necessary.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D7820F1DBC7C42acBFD6B0BB451914C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

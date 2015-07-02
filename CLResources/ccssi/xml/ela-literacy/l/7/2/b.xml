@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="7D61AA61BACB4134826B54DB1B0BF4F4">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Spell correctly.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E791051A722346a2B8AAD81E9EAE99C9</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

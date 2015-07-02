@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="C25EA102968F4475834EBBE132467487">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/K/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.K.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read common high-frequency words by sight (e.g., &lt;i&gt;the&lt;/i&gt;, &lt;i&gt;of&lt;/i&gt;, &lt;i&gt;to&lt;/i&gt;, &lt;i&gt;you&lt;/i&gt;, &lt;i&gt;she&lt;/i&gt;, &lt;i&gt;my&lt;/i&gt;, &lt;i&gt;is&lt;/i&gt;, &lt;i&gt;are&lt;/i&gt;, &lt;i&gt;do&lt;/i&gt;, &lt;i&gt;does&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">4EAFD78784EB4f549121DCA7FCCEB9A0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="32D9C8830A6C4fd5B715A1DFFC4D4BA4">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Cite specific textual evidence to support analysis of primary and secondary sources, connecting insights gained from specific details to an understanding of the text as a whole.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="42BBAE6799464c02BDC1D8A406FE9E14">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the central ideas or information of a primary or secondary source; provide an accurate summary that makes clear the relationships among the key details and ideas.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="300BCF7C17C044b49921E4D732DAC26C">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Evaluate various explanations for actions or events and determine which explanation best accords with textual evidence, acknowledging where the text leaves matters uncertain.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6076F8FF8E0D46efB507168C051CE5E4">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the meaning of words and phrases as they are used in a text, including analyzing how an author uses and refines the meaning of a key term over the course of a text (e.g., how Madison defines &lt;em&gt;faction&lt;/em&gt; in &lt;em&gt;Federalist&lt;/em&gt; No. 10).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B381F9ACA2B94c6c962FFC7BF4FF0115">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Analyze in detail how a complex primary source is structured, including how key sentences, paragraphs, and larger portions of the text contribute to the whole.  </Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="98C33F52E3034a3e9A3794B7927CFBD9">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Evaluate authors&#8217; differing points of view on the same historical event or issue by assessing the authors&#8217; claims, reasoning, and evidence.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E75B621392974114BC132F6A614EF246">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, as well as in words) in order to address a question or solve a problem.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3EAF2F82F79F40e0832C795A8854E858">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Evaluate an author&#8217;s premises, claims, and evidence by corroborating or challenging them with other information. </Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="236925198E7A4cb996C54ADC15CCFA51">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/9/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.9</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Integrate information from diverse sources, both primary and secondary, into a coherent understanding of an idea or event, noting discrepancies among sources.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="18A2424DA0814f93BFF60E086D4516C5">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>By the end of grade 12, read and comprehend history/social studies texts in the grades 11&#8211;CCR text complexity band independently and proficiently.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

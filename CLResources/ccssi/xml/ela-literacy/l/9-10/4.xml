@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="48CFE46A3C5D4105BA1155DA4C96CAEC">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/9-10/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.9-10.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on &lt;em&gt;grades 9&#8211;10 reading and content&lt;/em&gt;, choosing flexibly from a range of strategies.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">28B7935CA1D444ce81974DFA8D1B3B88</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="2AE5C8EAEBF84be988F6AB16284F9903">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/9-10/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.9-10.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use context (e.g., the overall meaning of a sentence, paragraph, or text; a word&#8217;s position or function in a sentence) as a clue to the meaning of a word or phrase.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">48CFE46A3C5D4105BA1155DA4C96CAEC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3A307E92B91A4d78A0F3AD7356D31B92">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/9-10/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.9-10.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (e.g., &lt;em&gt;analyze, analysis, analytical; advocate, advocacy&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">48CFE46A3C5D4105BA1155DA4C96CAEC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0D592C3F9B92491f91B4AD52491A924A">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/9-10/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.9-10.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, or its etymology.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">48CFE46A3C5D4105BA1155DA4C96CAEC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="AAD8CDB012C244d79A81668131452B3C">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/9-10/4/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.9-10.4d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">48CFE46A3C5D4105BA1155DA4C96CAEC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

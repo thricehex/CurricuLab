@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="743A3FB1E45B4a82A91820A4DA97568D">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use context (e.g., definitions, examples, or restatements in text) as a clue to the meaning of a word or phrase.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A792CADBA39144b8B9033AF5FA4D5D79</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

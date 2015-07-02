@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="B51C6E9FD18247409563F121CE7D9950">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/6-8/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.6-8.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify key steps in a text&#8217;s description of a process related to history/social studies (e.g., how a bill becomes law, how interest rates are raised or lowered).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+      <GradeLevel>07</GradeLevel>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">CE072048B1EB420891ED23C2A04016D7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

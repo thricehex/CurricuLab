@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="F54C86E7E2DE4b838A93693CBB28974F">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Form and use prepositional phrases.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

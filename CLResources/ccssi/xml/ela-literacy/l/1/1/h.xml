@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="2B41BAF75784418fB5C9D0A0A03232C5">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/1/1/h/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.1.1h</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use determiners (e.g., articles, demonstratives).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C34A7209EE3E4969AA850420FEC6523F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

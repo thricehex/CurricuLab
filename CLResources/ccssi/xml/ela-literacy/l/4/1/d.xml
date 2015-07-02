@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="C6712F7344DB471986225622F3784EAD">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/4/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.4.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Order adjectives within sentences according to conventional patterns (e.g., &lt;em&gt;a small red bag&lt;/em&gt; rather than &lt;em&gt;a red small bag&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22440D609BC04cfd8AAC62C7D8BE22C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

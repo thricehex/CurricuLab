@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="E3BCF5E06C5343de9DAD6915B9F8FA7D">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/3/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.3.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read grade-level text with purpose and understanding.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D7820F1DBC7C42acBFD6B0BB451914C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

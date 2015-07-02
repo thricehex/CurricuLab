@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="A9C64C2752824c65BEC4CFF30E25BA39">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/1/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.1.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Sort words into categories (e.g., colors, clothing) to gain a sense of the concepts the categories represent.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D6149832B039495eBACBC94491BD7028</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

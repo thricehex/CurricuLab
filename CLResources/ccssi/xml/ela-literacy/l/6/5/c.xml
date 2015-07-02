@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="B687A93F788A452e825B7C22ECD18123">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/6/5/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.6.5c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., &lt;em&gt;stingy, scrimping, economical, unwasteful, thrifty&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6195E2E8571F4572B6070C6193A2D89F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

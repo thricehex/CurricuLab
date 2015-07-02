@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="0D592C3F9B92491f91B4AD52491A924A">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/9-10/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.9-10.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, or its etymology.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">48CFE46A3C5D4105BA1155DA4C96CAEC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

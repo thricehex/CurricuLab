@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="BF5998A044F64bb3B018ACDC73702D21">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/11-12/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.11-12.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BC475F1FEE074d699ABEAE3285BCB5C9</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="308585A29561457fAC7892868A748588">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/11-12/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.11-12.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Vary syntax for effect, consulting references (e.g., Tufte&#8217;s &lt;em&gt;Artful Sentences&lt;/em&gt;) for guidance as needed; apply an understanding of syntax to the study of complex texts when reading.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BF5998A044F64bb3B018ACDC73702D21</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

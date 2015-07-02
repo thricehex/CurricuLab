@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="E005EAA652454562997563B45E270F60">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/5/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.5c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the relationship between particular words (e.g., synonyms, antonyms, homographs) to better understand each of the words.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AC5DB534B1794733A3A0C8AF779ADC2D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

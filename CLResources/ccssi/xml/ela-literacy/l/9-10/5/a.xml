@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="E525067074934c12BE1060CF771F2A93">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/9-10/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.9-10.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret figures of speech (e.g., euphemism, oxymoron) in context and analyze their role in the text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F82E5EAD45BE40418133E6F48BC5FB37</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

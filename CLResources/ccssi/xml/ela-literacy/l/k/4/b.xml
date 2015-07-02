@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="1EC5106752AF4355913AFA5236DB42EC">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/K/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.K.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the most frequently occurring inflections and affixes (e.g., &lt;em&gt;-ed, -s, re-, un-, pre-, -ful, -less&lt;/em&gt;) as a clue to the meaning of an unknown word.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D86507ACEF3D4a6d90C15A8B8C8EC18E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

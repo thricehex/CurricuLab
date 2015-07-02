@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="21D1825CCD254b6bA1CCD791F8C89AE4">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/1/g/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.1g</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F053D3437D1E4338A2C18B25DACBED85</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

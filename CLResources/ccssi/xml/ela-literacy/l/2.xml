@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="3BC8F46071754afc8A9871C559FE7B8A">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D9EBC8EDC48499ECE3D9BCBFAB681</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B1BC80614A7C434fA237CB9F520DE693">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use collective nouns (e.g., &lt;em&gt;group&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3BC8F46071754afc8A9871C559FE7B8A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="329AF6710C0E45d080DA772C2C57FDCE">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Form and use frequently occurring irregular plural nouns (e.g., &lt;em&gt;feet, children, teeth, mice, fish&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3BC8F46071754afc8A9871C559FE7B8A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0518531B9B5D4941BE7121F19F8FD704">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use reflexive pronouns (e.g., &lt;em&gt;myself, ourselves&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3BC8F46071754afc8A9871C559FE7B8A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BE3EA41F879A428d98EEA966A0703B99">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Form and use the past tense of frequently occurring irregular verbs (e.g., &lt;em&gt;sat, hid, told&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3BC8F46071754afc8A9871C559FE7B8A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5D5B08A2164E4b3bA287BEC74193149D">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/1/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.1e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use adjectives and adverbs, and choose between them depending on what is to be modified.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3BC8F46071754afc8A9871C559FE7B8A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9D225CFD9504412f8EC9A7C35A5AFE99">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/1/f/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.1f</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Produce, expand, and rearrange complete simple and compound sentences (e.g., &lt;em&gt;The boy watched the movie; The little boy watched the movie; The action movie was watched by the little boy&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3BC8F46071754afc8A9871C559FE7B8A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6ED4853445EA48b79286A547A18C56F6">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D9EBC8EDC48499ECE3D9BCBFAB681</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="2CC046674F02492dABCA0260A61ACE41">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Capitalize holidays, product names, and geographic names.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6ED4853445EA48b79286A547A18C56F6</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B876C32B2EC3488898A617BD0900455C">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use commas in greetings and closings of letters.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6ED4853445EA48b79286A547A18C56F6</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BCB79E88F02E41ed8F41DA0A215CE389">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use an apostrophe to form contractions and frequently occurring possessives.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6ED4853445EA48b79286A547A18C56F6</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="852CCA1961A3481e9E04E78FBB60D00A">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Generalize learned spelling patterns when writing words (e.g., &lt;em&gt;cage &#8594; badge; boy &#8594; boil&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6ED4853445EA48b79286A547A18C56F6</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="4DA865D3ECA9497dA8329ED73273C748">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/2/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.2e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Consult reference materials, including beginning dictionaries, as needed to check and correct spellings.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6ED4853445EA48b79286A547A18C56F6</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="19D237C0A04D473fB0F0404BAA0F1D52">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use knowledge of language and its conventions when writing, speaking, reading, or listening.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D9EBC8EDC48499ECE3D9BCBFAB681</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="768AABEC7A8C4ccf804A749C189A70DE">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compare formal and informal uses of English</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">19D237C0A04D473fB0F0404BAA0F1D52</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="2714F0E3029D4d0c9E76491D7FAC4E2A">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 2 reading and content, choosing flexibly from an array of strategies.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D9EBC8EDC48499ECE3D9BCBFAB681</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6593202EFEE642198096AEA1D433ED74">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use sentence-level context as a clue to the meaning of a word or phrase.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2714F0E3029D4d0c9E76491D7FAC4E2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0B084ADB58D74d839CA8F9BEB2346D36">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the meaning of the new word formed when a known prefix is added to a known word (e.g., &lt;em&gt;happy/unhappy, tell/retell&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2714F0E3029D4d0c9E76491D7FAC4E2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="03F4D8160FD24337AD14950DC8F8FA43">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., &lt;em&gt;addition, additional&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2714F0E3029D4d0c9E76491D7FAC4E2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E9630D144C7B4eaf84C721A3CED739D6">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/4/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.4d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use knowledge of the meaning of individual words to predict the meaning of compound words (e.g., &lt;em&gt;birdhouse, lighthouse, housefly; bookshelf, notebook, bookmark&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2714F0E3029D4d0c9E76491D7FAC4E2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BCAB98E59AAD4dd0939C6055DD3E4CA7">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/4/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.4e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use glossaries and beginning dictionaries, both print and digital, to determine or clarify the meaning of words and phrases.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2714F0E3029D4d0c9E76491D7FAC4E2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="923A115FB751438aB4B5D08AE0B5C5CA">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate understanding of word relationships and nuances in word meanings.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D9EBC8EDC48499ECE3D9BCBFAB681</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="AAEA2D689C06416185FB2857BFA79838">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify real-life connections between words and their use (e.g., &lt;em&gt;describe foods that are spicy or juicy&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">923A115FB751438aB4B5D08AE0B5C5CA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="4528B0101977494fB411A92C27099BFA">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish shades of meaning among closely related verbs (e.g., &lt;em&gt;toss, throw, hurl&lt;/em&gt;) and closely related adjectives (e.g., &lt;em&gt;thin, slender, skinny, scrawny&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">923A115FB751438aB4B5D08AE0B5C5CA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BF85A669691149719635C20A8AB0D2EE">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use words and phrases acquired through conversations, reading and being read to, and responding to texts, including using adjectives and adverbs to describe (e.g., &lt;em&gt;When other kids are happy that makes me happy&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D9EBC8EDC48499ECE3D9BCBFAB681</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="945C12FCFBD44b2680F0763CAA7C5194">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AA8CAF5103E4405bAD2FE61C09ABC1CD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D1386521BA704bf695BA802FCA4EDB64">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret figures of speech (e.g., literary, biblical, and mythological allusions) in context.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">945C12FCFBD44b2680F0763CAA7C5194</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8B482A56484F4730A8DDDFB8DF4A807B">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the relationship between particular words (e.g., synonym/antonym, analogy) to better understand each of the words.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">945C12FCFBD44b2680F0763CAA7C5194</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="36BC95D416154a66AF6F176B0FFBE3B0">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/5/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.5c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish among the connotations (associations) of   words with similar denotations (definitions) (e.g., &lt;em&gt;refined, respectful, polite, diplomatic, condescending&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">945C12FCFBD44b2680F0763CAA7C5194</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

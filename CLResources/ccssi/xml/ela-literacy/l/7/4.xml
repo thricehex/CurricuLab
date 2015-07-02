@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="F04387D5C09541f7929B137D9A6DE30E">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on &lt;em&gt;grade 7 reading and content&lt;/em&gt;, choosing flexibly from a range of strategies.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AA8CAF5103E4405bAD2FE61C09ABC1CD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="CBB4763D0537497cBED272FE23896312">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use context (e.g., the overall meaning of a sentence or paragraph; a word&#8217;s position or function in a sentence) as a clue to the meaning of a word or phrase.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F04387D5C09541f7929B137D9A6DE30E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="857693AE91354c639BC6FDA8AB50106D">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., &lt;em&gt;belligerent, bellicose, rebel&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F04387D5C09541f7929B137D9A6DE30E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FE6D7F1133B34e21878C094EC2836A6B">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F04387D5C09541f7929B137D9A6DE30E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="30CB4388372D45b9B75B09D39E523A97">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/4/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.4d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F04387D5C09541f7929B137D9A6DE30E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

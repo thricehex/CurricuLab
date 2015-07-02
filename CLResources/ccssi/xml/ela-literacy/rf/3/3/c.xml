@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="4B8A6FCC5F0B4460913DED953E973811">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/3/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.3.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Decode multisyllable words.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">794321D213264fe5B82B26FAC60C2C26</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

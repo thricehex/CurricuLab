@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="C0CD7732829C44b49B7617BD533D8A16">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/6/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.6.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize and correct vague pronouns (i.e., ones with unclear or ambiguous antecedents).*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BF4D7D5368EC481d8A0F93327A9F021A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

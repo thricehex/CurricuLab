@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="A42D8F49E22B4f1aA181947AEF439DC4">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify real-life connections between words and their use (e.g., describe people who are &lt;em&gt;friendly&lt;/em&gt; or &lt;em&gt;helpful&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7A3F8D4EE2DB42b68CCFB6ACF1679B7F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="650.0" prefWidth="865.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.viriumdev.curriculab.FXMLControlPaneController">
+    <stylesheets>
+        <URL value="@mainStyle.css" />
+    </stylesheets>
+   <children>
+      <Label fx:id="lpTitle" layoutX="171.0" layoutY="66.0" prefHeight="43.0" prefWidth="277.0">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Pane id="topPaneBar" prefHeight="52.0" prefWidth="865.0">
+         <children>
+            <Label id="titleLabel" layoutX="14.0" layoutY="5.0" prefHeight="43.0" prefWidth="146.0" text="CurricuLab">
+               <font>
+                  <Font name="Arial" size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane id="menuPane" layoutX="14.0" layoutY="108.0" prefHeight="295.0" prefWidth="114.0">
+         <children>
+            <Hyperlink id="newLP" fx:id="newLP" layoutY="14.0" prefHeight="75.0" prefWidth="114.0" text="New Plan">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Hyperlink>
+            <Hyperlink id="saveLP" fx:id="saveLP" layoutY="83.0" prefHeight="75.0" prefWidth="114.0" text="Save Plan">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Hyperlink>
+            <Hyperlink id="shareLP" fx:id="shareLP" layoutY="158.0" prefHeight="75.0" prefWidth="114.0" text="Share Plan">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Hyperlink>
+            <Hyperlink id="exit" fx:id="exit" layoutY="220.0" prefHeight="75.0" prefWidth="114.0" text="Exit">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Hyperlink>
+         </children>
+      </Pane>
+      <Button id="button2" fx:id="newObj" layoutX="327.0" layoutY="561.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="134.0" text="New Objective" />
+      <ListView id="objPane" fx:id="objectiveList" layoutX="488.0" layoutY="128.0" prefHeight="410.0" prefWidth="288.0" />
+      <Button id="button3" fx:id="openObj" layoutX="642.0" layoutY="561.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="134.0" text="Open Objective" />
+      <Label fx:id="subjectLabel" layoutX="478.0" layoutY="55.0" prefHeight="21.0" prefWidth="204.0" />
+      <Label fx:id="gradeLabel" layoutX="478.0" layoutY="98.0" prefHeight="21.0" prefWidth="204.0" />
+      <VBox id="lpPane" fx:id="lpBox" layoutX="173.0" layoutY="128.0" prefHeight="410.0" prefWidth="288.0" />
+   </children>
+</AnchorPane>

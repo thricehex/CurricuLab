@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="B9F9782778274dca86527AF0AC740D35">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Form and use the perfect (e.g., &lt;em&gt;I had walked; I have walked; I will have walked&lt;/em&gt;) verb tenses.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">584C96F14B234c428C1C894D0B4674BA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="94DBD12EFA6C453aA36026D6B555CC7C">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/11-12/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.11-12.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BC475F1FEE074d699ABEAE3285BCB5C9</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="EB01DDC9D1164787ABFC11BEA1663C93">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/11-12/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.11-12.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret figures of speech (e.g., hyperbole, paradox) in context and analyze their role in the text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">94DBD12EFA6C453aA36026D6B555CC7C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="CA34E348943F4bddAFCEF836A703E950">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/11-12/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.11-12.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Analyze nuances in the meaning of words with similar denotations.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">94DBD12EFA6C453aA36026D6B555CC7C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

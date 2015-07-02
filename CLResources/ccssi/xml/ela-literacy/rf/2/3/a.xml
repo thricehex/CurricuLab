@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="C237043125B94dbdB497D9D20553D9C8">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/2/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.2.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish long and short vowels when reading regularly spelled one-syllable words.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1F2778E06A2542c190558F0CD290F52C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

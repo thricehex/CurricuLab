@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="AE2BC234A91446709EBDB06FFDAAE24A">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F4AD7428A1714079AE3F014BC9252354</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="558D9B7BD43D47f9A1AE118587AA04B2">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use punctuation to separate items in a series.*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AE2BC234A91446709EBDB06FFDAAE24A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="558D9B7BD43D47f9A1AE118587AA04B3">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use a comma to separate an introductory element from the rest of the sentence.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AE2BC234A91446709EBDB06FFDAAE24A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E89765EA4DF044588437764DA259D7A5">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use a comma to set off the words &lt;i&gt;yes&lt;/i&gt; and &lt;i&gt;no&lt;/i&gt; (e.g., &lt;em&gt;Yes, thank you&lt;/em&gt;), to set off a tag question from the rest of the sentence (e.g., &lt;em&gt;It&amp;rsquo;s true, isn&amp;rsquo;t it?&lt;/em&gt;), and to indicate direct address (e.g., &lt;em&gt;Is that you, Steve?&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AE2BC234A91446709EBDB06FFDAAE24A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D22639A6D5EE4f84867BB149A6677613">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use underlining, quotation marks, or italics to indicate titles of works.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AE2BC234A91446709EBDB06FFDAAE24A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E93E8F53982246229083B3B75359CC7A">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/2/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.2e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Spell grade-appropriate words correctly, consulting references as needed.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AE2BC234A91446709EBDB06FFDAAE24A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

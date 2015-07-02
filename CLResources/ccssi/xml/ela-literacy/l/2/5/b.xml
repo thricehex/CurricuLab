@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="4528B0101977494fB411A92C27099BFA">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish shades of meaning among closely related verbs (e.g., &lt;em&gt;toss, throw, hurl&lt;/em&gt;) and closely related adjectives (e.g., &lt;em&gt;thin, slender, skinny, scrawny&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">923A115FB751438aB4B5D08AE0B5C5CA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

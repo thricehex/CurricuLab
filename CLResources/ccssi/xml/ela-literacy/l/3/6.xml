@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="A39536851ADB47869604ABC9DFAB53E9">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., &lt;em&gt;After dinner that night we went looking for them&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+  </LearningStandardItem>
+</LearningStandards>

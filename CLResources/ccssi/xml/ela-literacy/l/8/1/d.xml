@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="FAAA9AA87B3E4edb9E0444BD61D08F64">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/8/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.8.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize and correct inappropriate shifts in verb voice and mood.*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B21D45FD717A4dbbB9B8818A5D92CA9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="92ECB0BEEB5E4ca78C18F01AAA31E69B">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/6-8/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.6-8.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify aspects of a text that reveal an author&#8217;s point of view or purpose (e.g., loaded language, inclusion or avoidance of particular facts).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+      <GradeLevel>07</GradeLevel>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">CE072048B1EB420891ED23C2A04016D7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

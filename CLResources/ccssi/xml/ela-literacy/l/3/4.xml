@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="FF01BC6A620A4da9A6442D0B5326173A">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B9C62EF867B74a5cBF0E334A51A964DC">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use sentence-level context as a clue to the meaning of a word or phrase.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FF01BC6A620A4da9A6442D0B5326173A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="91AD7BA4392646459B49E7DCB06B6819">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the meaning of the new word formed when a known affix is added to a known word (e.g., &lt;em&gt;agreeable/disagreeable, comfortable/uncomfortable, care/careless, heat/preheat&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FF01BC6A620A4da9A6442D0B5326173A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B7D3E73301E2401fB02F1E00639342CE">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., &lt;em&gt;company, companion&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FF01BC6A620A4da9A6442D0B5326173A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5F7A8F4699B94f4789792BE69AB6A37E">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/4/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.4d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use glossaries or beginning dictionaries, both print and digital, to determine or clarify the precise meaning of key words and phrases.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FF01BC6A620A4da9A6442D0B5326173A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

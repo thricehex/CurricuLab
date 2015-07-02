@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.web.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="896.0" prefWidth="1254.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.viriumdev.curriculab.FXMLMainController">
+    <stylesheets>
+        <URL value="@mainStyle.css" />
+    </stylesheets>
+   <children>
+      <TabPane fx:id="tabPane" layoutX="346.0" layoutY="524.0" prefHeight="207.0" prefWidth="437.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab text="Strategy 1">
+               <content>
+                  <TextArea prefHeight="200.0" prefWidth="200.0" />
+               </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+      <HTMLEditor id="editor" fx:id="editor" htmlText="&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;" layoutX="160.0" layoutY="100.0" prefHeight="386.0" prefWidth="657.0" />
+      <Label layoutX="174.0" layoutY="507.0" prefHeight="35.0" prefWidth="85.0" text="Strategies:">
+         <font>
+            <Font name="System Italic" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="174.0" layoutY="55.0" prefHeight="35.0" prefWidth="85.0" text="Objective:">
+         <font>
+            <Font name="System Italic" size="18.0" />
+         </font>
+      </Label>
+      <Button id="button1" layoutX="859.0" layoutY="56.0" mnemonicParsing="false" onAction="#onClickUpdateHandler" text="Update Content" />
+      <ListView id="refPane" fx:id="referencePaneList" layoutX="14.0" layoutY="575.0" prefHeight="313.0" prefWidth="194.0" />
+      <ListView id="topContentPane" fx:id="apiPaneList" layoutX="834.0" layoutY="100.0" prefHeight="386.0" prefWidth="412.0" />
+      <ListView id="bottomContentPane" fx:id="ccPaneList" layoutX="834.0" layoutY="499.0" prefHeight="386.0" prefWidth="412.0" />
+      <ProgressIndicator fx:id="topPaneIndicator" layoutX="834.0" layoutY="100.0" />
+      <ProgressIndicator fx:id="bottomPaneIndicator" layoutX="834.0" layoutY="499.0" />
+      <Pane id="topPaneBar" prefHeight="43.0" prefWidth="1254.0">
+         <children>
+            <Label id="titleLabel" layoutX="21.0" prefHeight="43.0" prefWidth="146.0" text="CurricuLab">
+               <font>
+                  <Font name="Arial" size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <FlowPane id="keywordBox" fx:id="keywordBox" layoutX="465.0" layoutY="740.0" prefHeight="152.0" prefWidth="358.0" />
+      <Button id="button3" layoutX="282.0" layoutY="740.0" mnemonicParsing="false" onAction="#onClickHandler" text="Add/Remove Keywords" />
+      <Label layoutX="14.0" layoutY="542.0" prefHeight="21.0" prefWidth="92.0" text="References: ">
+         <font>
+            <Font name="System Italic" size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="addStrategy" layoutX="783.0" layoutY="523.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="32.0" text="+">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+      <Pane id="menuPane" layoutX="14.0" layoutY="109.0" prefHeight="207.0" prefWidth="134.0">
+         <children>
+            <Hyperlink id="mpLink" fx:id="saveLabel" prefHeight="67.0" prefWidth="134.0" text="Save">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Hyperlink>
+            <Hyperlink id="mpLink" fx:id="exSaveLabel" layoutY="133.0" prefHeight="67.0" prefWidth="134.0" text="Save &amp; Exit">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Hyperlink>
+            <Hyperlink id="mpLink" fx:id="exitLabel" layoutY="65.0" prefHeight="67.0" prefWidth="134.0" text="Exit">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Hyperlink>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

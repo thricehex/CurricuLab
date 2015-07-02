@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="0B084ADB58D74d839CA8F9BEB2346D36">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/2/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.2.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the meaning of the new word formed when a known prefix is added to a known word (e.g., &lt;em&gt;happy/unhappy, tell/retell&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2714F0E3029D4d0c9E76491D7FAC4E2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

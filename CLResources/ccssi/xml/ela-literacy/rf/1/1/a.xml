@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="F0A646723915482a95A24ABA80377033">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/1/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.1.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize the distinguishing features of a sentence (e.g., first word, capitalization, ending punctuation).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6599383674C540b188DDEBA70DB946F0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

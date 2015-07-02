@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="9EF7856DCC294395B3543D23F4EB1D41">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/8/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.8.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use punctuation (comma, ellipsis, dash) to indicate a pause or break.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B863A110909C4b0790CC69BDE4297AF6</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

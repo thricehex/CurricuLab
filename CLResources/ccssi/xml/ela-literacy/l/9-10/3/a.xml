@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="98E48BEB43CC41caBBCD000FC9E40E54">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/9-10/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.9-10.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write and edit work so that it conforms to the guidelines in a style manual (e.g., &lt;em&gt;MLA Handbook&lt;/em&gt;, Turabian&#8217;s &lt;em&gt;Manual for Writers&lt;/em&gt;) appropriate for the discipline and writing type.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A4DC75663DA54de58F66BCDFDA49D394</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

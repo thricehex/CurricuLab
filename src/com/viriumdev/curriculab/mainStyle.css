@@ -1,0 +1,83 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#AnchorPane, #kwPane {
+    
+    -fx-background-color: #979292;
+}
+
+#topPaneBar {
+    
+    -fx-background-color: #0b0b0b;
+    -fx-opacity: 0.8;
+}
+
+#keywordBox {
+    
+    -fx-border-width: 1px;
+    -fx-border-color: lightgrey;
+    -fx-background-color: lightslategray
+}
+
+#strategyPane, #kwEditor, #lpPane {
+    -fx-background-color: white;
+    -fx-border-color: lightgrey;
+}
+
+#menuPane {
+    -fx-background-color: #38424b;
+    
+}
+
+#titleLabel {
+    
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 100%, orange 50%, red 100% );
+}
+
+#topContentPane, #bottomContentPane, #strategyPane,  #navmenu, #refPane, 
+#keywordBox, #menuPane, #objPane, #lpPane
+{
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,50,1.0) , 20, 0.0, 0, 1);
+    -fx-opacity: 0.7;
+    
+}
+
+#editor, #textFlow {
+    -fx-effect: innershadow( three-pass-box, rgba(0,0,30,1.0), 10, 0.0, 0, 1);
+    -fx-opacity: .85;
+}
+
+#newLP:hover, #saveLP:hover, #shareLP:hover, #exit:hover {
+    
+    -fx-text-fill: #cccccc
+}
+#newLP, #saveLP, #shareLP, #exit {
+    -fx-text-fill: #999999;
+}
+
+#mpLink {
+    
+    -fx-text-fill: #3333ff;
+}
+
+#button1 , #button2, #button3, #button4 {
+    /* 
+    * Button design by Jasper Potts (fxexperience.com)
+    */
+    -fx-background-color: 
+        #090a0c,
+        linear-gradient(#38424b 0%, #1f2429 20%, #191d22 100%),
+        linear-gradient(#20262b, #191d22),
+        radial-gradient(center 50% 0%, radius 100%, rgba(114,131,148,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+    -fx-font-family: "Arial";
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 12px;
+    -fx-padding: 10 20 10 20;
+}
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="F82EDE7D54704B7F97AB74D10A56D228">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A square with side length 1 unit, called &amp;ldquo;a unit square,&amp;rdquo; is said to have &amp;ldquo;one square unit&amp;rdquo; of area, and can be used to measure area.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C3AE47EBADAC4FD3806961236A97793F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

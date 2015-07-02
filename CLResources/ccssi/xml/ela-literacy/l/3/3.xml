@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="78FD2278A96D4607A6E41E0878E2228C">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use knowledge of language and its conventions when writing, speaking, reading, or listening.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5A23A2BD39CC4fd6B9E2A2ECB944D0C8">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Choose words and phrases for effect.*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">78FD2278A96D4607A6E41E0878E2228C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="92EF8DA8EDE44cd1AFA5888ECABBD099">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize and observe differences between the conventions of spoken and written standard English.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">78FD2278A96D4607A6E41E0878E2228C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="45D15E689C1B41e7B8BA7C8989FF3E42">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/K/5/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.K.5d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish shades of meaning among verbs describing the same general action (e.g., &lt;em&gt;walk, march, strut, prance&lt;/em&gt;) by acting out the meanings.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BFCE06D4C53E4d7f96AA9C05E683B701</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

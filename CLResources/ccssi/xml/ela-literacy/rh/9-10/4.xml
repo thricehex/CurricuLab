@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="7B0BE3C4C91841bbB4CE6DA99D0EDE96">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/9-10/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.9-10.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the meaning of words and phrases as they are used in a text, including vocabulary describing political, social, or economic aspects of history/social science.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">375612B2BF3D41f29101C8539AC9372C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

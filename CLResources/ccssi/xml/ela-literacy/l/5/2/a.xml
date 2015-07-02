@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="558D9B7BD43D47f9A1AE118587AA04B2">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use punctuation to separate items in a series.*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AE2BC234A91446709EBDB06FFDAAE24A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="176C2F3D221D416984213D9C38D61CF1">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/3/2/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.3.2e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., &lt;em&gt;sitting, smiled, cries, happiness&lt;/em&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">CDB3FEEFC8174f3fA05ED9506BACA4F4</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

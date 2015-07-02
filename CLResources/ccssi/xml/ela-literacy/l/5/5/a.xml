@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="074E9EC9C5C4476592F5D95CB61E5814">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/5/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.5.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret figurative language, including similes and metaphors, in context.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AC5DB534B1794733A3A0C8AF779ADC2D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

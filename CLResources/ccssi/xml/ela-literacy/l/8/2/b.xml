@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="6B09A59264C2400fB11FD81EC5F031D4">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/8/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.8.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use an ellipsis to indicate an omission.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B863A110909C4b0790CC69BDE4297AF6</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="F68EB02BF5104aa4B816D7832165603E">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/K/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.K.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Associate the long and short sounds with the common spellings (graphemes) for the five major vowels.
+</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">4EAFD78784EB4f549121DCA7FCCEB9A0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

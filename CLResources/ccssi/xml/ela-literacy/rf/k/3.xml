@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="4EAFD78784EB4f549121DCA7FCCEB9A0">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/K/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.K.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Know and apply grade-level phonics and word analysis skills in decoding words.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">880A87FE26DE484e9E57B921486EC082</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="ECCAD00A3C8D4de39F519D269EA90D9B">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/K/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.K.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate basic knowledge of one-to-one letter-sound correspondences by producing the primary sound or many of the most frequent sounds for each consonant.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">4EAFD78784EB4f549121DCA7FCCEB9A0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F68EB02BF5104aa4B816D7832165603E">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/K/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.K.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Associate the long and short sounds with the common spellings (graphemes) for the five major vowels.
+</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">4EAFD78784EB4f549121DCA7FCCEB9A0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C25EA102968F4475834EBBE132467487">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/K/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.K.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read common high-frequency words by sight (e.g., &lt;i&gt;the&lt;/i&gt;, &lt;i&gt;of&lt;/i&gt;, &lt;i&gt;to&lt;/i&gt;, &lt;i&gt;you&lt;/i&gt;, &lt;i&gt;she&lt;/i&gt;, &lt;i&gt;my&lt;/i&gt;, &lt;i&gt;is&lt;/i&gt;, &lt;i&gt;are&lt;/i&gt;, &lt;i&gt;do&lt;/i&gt;, &lt;i&gt;does&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">4EAFD78784EB4f549121DCA7FCCEB9A0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D61AB1527DD24eac89D176C77DDAC257">
+    <RefURI>http://corestandards.org/ELA-Literacy/RF/K/3/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RF.K.3d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish between similarly spelled words by identifying the sounds of the letters that differ.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">4EAFD78784EB4f549121DCA7FCCEB9A0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

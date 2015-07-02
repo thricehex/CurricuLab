@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="D398CACA50CF4637B39338C11FCE770F">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AA8CAF5103E4405bAD2FE61C09ABC1CD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5A89865C639E4524AD24864055861BE8">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain the function of phrases and clauses in general and their function in specific sentences.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D398CACA50CF4637B39338C11FCE770F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="836057C2E2644481A47023667EF9A501">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Choose among simple, compound, complex, and compound-complex sentences to signal differing relationships among ideas.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D398CACA50CF4637B39338C11FCE770F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6538460CCF7B48639ED64F8E2E6FB463">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/7/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.7.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Place phrases and clauses within a sentence, recognizing and correcting misplaced and dangling modifiers.*</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D398CACA50CF4637B39338C11FCE770F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

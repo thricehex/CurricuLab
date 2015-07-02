@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="18A2424DA0814f93BFF60E086D4516C5">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/11-12/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.11-12.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>By the end of grade 12, read and comprehend history/social studies texts in the grades 11&#8211;CCR text complexity band independently and proficiently.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11-12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F9877ECD38D8432185F96C5EC5A050AF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

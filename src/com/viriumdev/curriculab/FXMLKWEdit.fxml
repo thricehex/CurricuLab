@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="kwPane" fx:id="kwPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="297.0" prefWidth="600.0" stylesheets="@mainStyle.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" >
+   <children>
+      <Button layoutX="275.0" layoutY="245.0" mnemonicParsing="false" text="Save" />
+      <Label layoutX="33.0" layoutY="4.0" prefHeight="21.0" prefWidth="352.0" text="Enter or delete keywords (Separate with commas)" />
+      <TextArea fx:id="kwEditor" layoutX="14.0" layoutY="25.0" prefHeight="200.0" prefWidth="578.0" />
+   </children>
+</AnchorPane>

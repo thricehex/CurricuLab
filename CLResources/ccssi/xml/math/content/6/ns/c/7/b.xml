@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="3D676E16444546DAB6327396969B83D4">
+    <RefURI>http://corestandards.org/Math/Content/6/NS/C/7/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.NS.C.7b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write, interpret, and explain statements of order for rational numbers in real-world contexts. &lt;i&gt;For example, write &amp;ndash;3 &lt;sup&gt;o&lt;/sup&gt;C &amp;gt; &amp;ndash;7 &lt;sup&gt;o&lt;/sup&gt;C to express the fact that &amp;ndash;3 &lt;sup&gt;o&lt;/sup&gt;C is warmer than &amp;ndash;7 &lt;sup&gt;o&lt;/sup&gt;C&lt;/i&gt;. </Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">71F96ADF450A4133A258FDACE2D3910D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

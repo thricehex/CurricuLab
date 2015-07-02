@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <LearningStandardItem xml:lang="en" RefID="6A7CA965F6CF4eadA6B6B132FA6ABD58">
+    <RefURI>http://corestandards.org/ELA-Literacy/RH/6-8/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RH.6-8.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish among fact, opinion, and reasoned judgment in a text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+      <GradeLevel>07</GradeLevel>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">CE072048B1EB420891ED23C2A04016D7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>
